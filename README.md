@@ -2,3 +2,4 @@
 Code written in [Reason](https://reasonml.github.io).
 
 - [day 1](src/day1.re)
+- [day 2](src/day2.re)
